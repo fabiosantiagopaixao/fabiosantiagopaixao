@@ -4,6 +4,8 @@ I work for 9 years with development of software, desktop, web and mobile. I have
 
 ## @@ About Me (and bold)@@ 🧑‍💻
 
+<font color="red">Status: **Not yet implemented**</font>
+
 <img src="https://github.com/fabiosantiagopaixao/fabiosantiagopaixao/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
