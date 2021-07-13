@@ -2,7 +2,7 @@
 
 I work for 9 years with development of software, desktop, web and mobile. I have experiences in developing for all platforms but I like to develop more on mobile platforms ou backend developer.
 
-## <span style="color: #912aed">About Me</span> 🧑‍💻
+## <span style="color: red">About Me</span> 🧑‍💻
 
 <img src="https://github.com/fabiosantiagopaixao/fabiosantiagopaixao/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
