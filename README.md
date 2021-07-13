@@ -4,7 +4,7 @@ I work for 9 years with development of software, desktop, web and mobile. I have
 
 ## 🧑‍💻 About Me
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/fabiosantiagopaixao/fabiosantiagopaixao/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Development desktop: No background gosto de usar java ou C #, para fazer o cliente não tenho muitas opções, o que é mais rapido de desenvolver, não o java o swing ou javafx não C # eu gosto do windows forms.
@@ -75,19 +75,19 @@ I work for 9 years with development of software, desktop, web and mobile. I have
 #### Rede Sociais!
 
 <p align="left">
-  <a href="mailto: fabio.santiago99@gmail.com" alt="Gmail">
+  <a href="mailto: fabio.santiago99@gmail.com" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" />
   </a>
 
-  <a href="https://www.linkedin.com/in/fabiosantiagopaixao/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/fabiosantiagopaixao/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://wa.me/+59165219302?text=Hello there" alt="WhatsApp">
+  <a href="https://wa.me/+59165219302?text=Hello there" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-  <a href="https://www.facebook.com/fabio.paixao.santiago/" alt="Facebook">
+  <a href="https://www.facebook.com/fabio.paixao.santiago/" alt="Facebook" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
-  <a href="https://www.instagram.com/fabio.santiago.paixao/" alt="Instagram">
+  <a href="https://www.instagram.com/fabio.santiago.paixao/" alt="Instagram" target="_blank">
    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
