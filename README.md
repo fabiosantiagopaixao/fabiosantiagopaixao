@@ -88,6 +88,6 @@ I work for 9 years with development of software, desktop, web and mobile. I have
   <a href="https://www.facebook.com/fabio.paixao.santiago/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
-  <a href="#" alt="Instagram">
-  <img src="https://www.instagram.com/fabio.santiago.paixao/"/></a>
+  <a href="https://www.instagram.com/fabio.santiago.paixao/" alt="Instagram">
+   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
