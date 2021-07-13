@@ -59,11 +59,11 @@ I work for 9 years with development of software, desktop, web and mobile. I have
 ## **Statistics**
 
 <a href="https://github.com/fabiosantiagopaixao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosantiagopaixao&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/fabiosantiagopaixao">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="Fábio S. Paixão github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiosantiagopaixao&show_icons=true&theme=dracula&line_height=27" alt="Fábio S. Paixão github stats"/>
 </a>
 
 [website]: https://fabiopaixao.me/
