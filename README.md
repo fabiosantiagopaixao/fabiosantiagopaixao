@@ -2,7 +2,7 @@
 
 I work for 9 years with development of software, desktop, web and mobile. I have experiences in developing for all platforms but I like to develop more on mobile platforms ou backend developer.
 
-## 🧑‍💻 About Me
+## About Me 🧑‍💻
 
 <img src="https://github.com/fabiosantiagopaixao/fabiosantiagopaixao/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -72,7 +72,7 @@ I work for 9 years with development of software, desktop, web and mobile. I have
 [linkedin]: https://www.linkedin.com/in/fabiosantiagopaixao/
 <br>
 
-#### Rede Sociais!
+#### Social Medias
 
 <p align="left">
   <a href="mailto: fabio.santiago99@gmail.com" alt="Gmail" target="_blank">
