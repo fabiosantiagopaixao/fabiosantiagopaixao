@@ -17,7 +17,7 @@ I work for 9 years with development of software, desktop, web and mobile. I have
 <code>
   <p align="center">
     <a hherf="https://drive.google.com/file/d/1y2kCd6Md9MXb4vO-0nGUGkqFy9Z48sTj/view?usp=sharing">
-      <img src="https://github.com/fabiosantiagopaixao/fabiosantiagopaixao/blob/main/download-resume.png" min-width="300px" max-width="300px" width="300px" align="center">
+      <img src="https://github.com/fabiosantiagopaixao/fabiosantiagopaixao/blob/main/download-resume.png" min-width="150px" max-width="150px" width="150px" align="center">
     </a>
   </p>
 </code>
