@@ -14,6 +14,14 @@ I work for 9 years with development of software, desktop, web and mobile. I have
   Mobile development: I like to develop more for android, using java. Most recently I'm using Dart, to develop multiplatform applications, it's a great choice for anyone who wants their multi-platform applications.
 </p>
 
+<code>
+  <p align="center">
+    <a hherf="https://drive.google.com/file/d/1y2kCd6Md9MXb4vO-0nGUGkqFy9Z48sTj/view?usp=sharing">
+      <img src="https://github.com/fabiosantiagopaixao/fabiosantiagopaixao/blob/main/download-resume.png" min-width="300px" max-width="300px" width="300px" align="center">
+    </a>
+  </p>
+</code>
+
 ## **Skills**  
 
 <code>
@@ -65,11 +73,6 @@ I work for 9 years with development of software, desktop, web and mobile. I have
 <a href="https://github.com/fabiosantiagopaixao">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiosantiagopaixao&show_icons=true&theme=dracula&line_height=27" alt="Fábio S. Paixão github stats"/>
 </a>
-
-[website]: https://fabiopaixao.me/
-[youtube]: https://www.youtube.com/channel/UCxovIy1fWV1UjMN6b_CCrJg
-[instagram]: https://www.instagram.com/fabio.santiago.paixao/
-[linkedin]: https://www.linkedin.com/in/fabiosantiagopaixao/
 <br>
 
 #### Social Medias
