@@ -1,6 +1,6 @@
 ## Hello There 👋
 
-I work for 9 years with development of software, desktop, web and mobile. I have experiences in developing for all platforms but I like to develop more on mobile platforms ou backend developer.
+I work for 10 years with development of software, desktop, web and mobile. I have experiences in developing for all platforms but I like to develop more on mobile platforms ou backend developer.
 
 ## About Me 🧑‍💻
 
