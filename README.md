@@ -16,7 +16,7 @@ I work for 10 years with development of software, desktop, web and mobile. I hav
 
 <code>
   <p align="center">
-    <a href="[https://drive.google.com/file/d/1y2kCd6Md9MXb4vO-0nGUGkqFy9Z48sTj/view?usp=sharing](https://drive.google.com/file/d/1NuZhNqBMX4da4U-ox_hUowOEHlF8Ffhz/view?usp=drive_link)">
+    <a href="https://drive.google.com/file/d/1NuZhNqBMX4da4U-ox_hUowOEHlF8Ffhz/view" target="_blank">
       <img src="https://github.com/fabiosantiagopaixao/fabiosantiagopaixao/blob/main/download-resume.png" min-width="150px" max-width="150px" width="150px" align="center">
     </a>
   </p>
